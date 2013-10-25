@@ -3,7 +3,6 @@
   "description" : "Simple Socket.io server interface",
   "version" : "0.0.1",
   "dependencies" : {
-    "twitter-stream" : "git://github.com/squirkle/twitter-stream.git",
-    "socket.io" : "1.0.0"
+    "socket.io" : "0.9.16"
   }
 }
