@@ -4,6 +4,6 @@
   "version" : "0.0.1",
   "dependencies" : {
     "twitter-stream" : "git://github.com/squirkle/twitter-stream.git",
-    "socket.io" : "latest"
+    "socket.io" : "1.0.0"
   }
 }
