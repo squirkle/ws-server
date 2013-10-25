@@ -1,0 +1,9 @@
+{
+  "name" : "ws-server",
+  "description" : "Simple Socket.io server interface",
+  "version" : "0.0.1",
+  "dependencies" : {
+    "twitter-stream" : "git://github.com/squirkle/twitter-stream.git",
+    "socket.io" : "latest"
+  }
+}
